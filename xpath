@@ -1,0 +1,10 @@
+单价
+//div[@class=\"col_sub sumary \"]//ul//li[1]//div[@class=\"su_con\"]//text()
+面积
+//div[@class=\"col_sub sumary \"]//ul//li[4]//div[@class=\"su_con\"]//text()
+大区域
+//div[@class=\"col_sub sumary \"]//ul//li[5]//a[1]//text()
+经纪人姓名
+//div[@class=\"col_sub sumary \"]//ul//li[7]//div[@class="su_con"]//span[1]//a[1]//text()
+经纪人手机号
+//div[@class=\"col_sub sumary \"]//ul//li[8]//div[@class="su_con"]//div[@id="movebar"]//ul//li[@class="ico_tel"]//div[@class="su_phone"]//span[@id="t_phone"]//text()
